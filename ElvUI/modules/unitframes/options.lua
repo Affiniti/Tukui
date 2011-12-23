@@ -1159,6 +1159,12 @@ E.Options.args.unitframe.args.player = {
 						['REMAINING'] = L['Remaining'],
 					},
 				},
+		     snaptoab = {
+                    type = 'toggle',
+                    order = 13,
+                    name = L['Snap To Actionbars'],
+                    desc = L['Position the castbar above Actionbar 1. Size is set automatically.'],
+                },
 			},
 		},
 		classbar = {
